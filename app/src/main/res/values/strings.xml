@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="turn_on">TURN ON</string>
+    <string name="turn_off">TURN OFF</string>
+    <string name="developmented_by_victor_benyes">Developmented by Victor BenYeshuati</string>
+    <string name="suap_sistema_unico_de_acesso_">SUAP -SISTEMA UNICO DE ACESSO PÚBLICO</string>
+
+    <string name="sistema_unificado_de_acesso_pú">Sistema Unificado de Acesso Público</string>
+
+
+    <string name="app_name">Utilitario</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="suap_tag">SUAP - IFBA</string>
+</resources>

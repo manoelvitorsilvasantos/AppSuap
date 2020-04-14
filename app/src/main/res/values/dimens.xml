@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Dimensoes do FloatingActionButton -->
+	<dimen name="fabA">70dp</dimen>
+	<dimen name="fabB">140dp</dimen>
+	<dimen name="fabC">210dp</dimen>
+	<dimen name="marginFabs">70dp</dimen>
+	<dimen name="fabHW">45dp</dimen>
+</resources>

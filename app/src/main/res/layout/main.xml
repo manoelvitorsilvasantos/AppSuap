@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="match_parent"
+	android:layout_width="match_parent"
+	android:padding="10dp">
+
+	<ToggleButton
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_margin="30dp"
+		android:onClick="flash"
+		android:id="@+id/btn"
+		android:textOn="@string/turn_on"
+		android:textOff="@string/turn_off"
+		android:layout_marginTop="100dp"/>
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:text="@string/developmented_by_victor_benyes"
+		android:layout_below="@id/btn"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="35dp"
+		android:id="@+id/site"/>
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:text="@string/suap_sistema_unico_de_acesso_"
+		android:layout_below="@id/site"
+		android:layout_centerHorizontal="true"
+		android:textColor="#C60C00"
+		android:typeface="serif"
+		android:layout_marginTop="50dp"
+		android:textSize="20sp"
+		android:id="@+id/suap"/>
+
+</RelativeLayout>
+
