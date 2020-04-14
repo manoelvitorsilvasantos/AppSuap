@@ -1,2 +1,4 @@
 # AppSuap
-Aplicativo de acesso ao SUAP(Sistema Unificado  Acesso Público) para dispositivos android
+Aplicado do SUAP[Sistema Unificado de Acesso Público] para dispositivo android, utilizando 
+api webview é alguns recursos nativos do android.
+
